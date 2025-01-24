@@ -6,7 +6,8 @@
   1. Next JS
   2. React JS
   3. Typescript
-  4. Tailwind
+  4. Tailwind CSS
+  5. Sanity Headless CMS
 
 
 <!---
